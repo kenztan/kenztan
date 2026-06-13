@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kenzie Tandera! 👋 </h1>
+<h1 align="center">Hi, I'm Ken! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kenztan_visitor_badge&left_color=royalblue&right_color=black"  />
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
@@ -15,9 +15,7 @@
 
 <img width="100%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/kenztan/kenztan/main/github-metrics.svg">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=kenztan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenztan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenztan&theme=github_dark&hide_border=true&layout=compact" alt="WakaTime Stats">
 
 </td>
 <td valign="top" width="50%">
