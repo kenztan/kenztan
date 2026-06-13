@@ -11,7 +11,7 @@
 
 <img align="left" width="47%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/kenztan/kenztan/main/github-metrics.svg">
 
-<div>
+<div style="overflow: hidden;">
   <h3>🌐 Let's Connect and Grow Together!</h3>
   <p>
     <a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none;">
@@ -34,13 +34,6 @@
   </ul>
 
   <h3>🧑‍💻 About Me</h3>
-  <p>
-    I'm a passionate full-stack developer with a strong background in web development, currently studying at HAL専門学校 in Osaka, Japan.
-    I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me watching
-    football, gaming, or following the crypto markets.
-  </p>
-  <p>
-    My journey in tech has led me to work with various technologies like Angular, NestJS, and PostgreSQL, building projects like Expenss,
-    a full-stack expense tracker. I'm always eager to learn new things and share my knowledge with the developer community.
-  </p>
+  <p>I'm a passionate full-stack developer with a strong background in web development, currently studying at HAL専門学校 in Osaka, Japan. I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me watching football, gaming, or following the crypto markets.</p>
+  <p>My journey in tech has led me to work with various technologies like Angular, NestJS, and PostgreSQL, building projects like Expenss, a full-stack expense tracker. I'm always eager to learn new things and share my knowledge with the developer community.</p>
 </div>
