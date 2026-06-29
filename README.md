@@ -4,7 +4,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nestjs,angular,postgresql,nodejs,git,github,linux,java" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nestjs,angular,postgresql,nodejs,git,github,linux,java" alt="Skills and tools"/>
   </a>
 </p>
 
